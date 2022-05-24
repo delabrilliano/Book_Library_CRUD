@@ -1,4 +1,4 @@
-# PROJECT MODULE 1 - BOOK LIBRARY PROGRAM
+# PROJECT MODULE 1 - CRUD - BOOK LIBRARY PROGRAM
 Hello! My name is Delabrilliano,
 I am currently learning data science and this is my first finished project on my learning journey!
 
