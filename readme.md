@@ -1,7 +1,7 @@
 # **Library Book Database CRUD (Create Read Update Delete) Program using Python**
 
 ![cover](https://github.com/delabrilliano/Book_Library_CRUD/blob/main/image/Library.jpg?raw=true)
-**Created by: Delabrilliano Ismail**
+**By: Delabrilliano Ismail**
 
 Hello! This is my first project on my learning journey on becoming a data scientist. This program is a simple database management (CRUD) for Library's book database. However, if you want to use it for other purpose, you can tweak the code a little bit and tailor it as you see fit.
 <hr>
